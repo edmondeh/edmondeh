@@ -131,4 +131,4 @@ REST APIs · Automated Testing · Code Reviews · CI/CD · Performance Optimizat
   <em>Always interested in useful products, challenging engineering problems, and teams that care about quality.</em>
 </p>
 
-<p align="center"><sub>Edmond Hashani · <a href="https://www.gitskins.com/readme-generator?template=community-sri-charan-machabhakthuni-eeip">Sri Charan Machabhakthuni</a> template by <a href="https://www.gitskins.com/creators/SreeCharan153">@SreeCharan153</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Edmond Hashani</sub></p>
